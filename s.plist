@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-<string>cn.gaoliming.mm</string>
+<string>com.hyhd.ele</string>
                 <key>bundle-version</key>
                 <string>1.0.1</string>
                 <key>kind</key>
